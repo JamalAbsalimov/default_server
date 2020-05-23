@@ -1,0 +1,1 @@
+2020/04/27 00:30:07 [error] 4275#4275: *11 directory index of "/app/" is forbidden, client: 192.168.83.1, server: laravel.loc, request: "GET / HTTP/1.1", host: "laravel.loc"
